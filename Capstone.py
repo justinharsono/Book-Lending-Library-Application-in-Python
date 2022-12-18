@@ -1,4 +1,4 @@
-# ID Buku, Nama Buku, Author, Kategory, Stock
+# ID Buku, Nama Buku, Author, Kategori, Stock
 list_buku = [
     ['A21', 'DORAEMON', 'FUJIKO FUJIO', 'KOMIK', '5'],
     ['P12', 'KESEJAHTERAAN SOSIAL', 'ISBANDI RUKMINTO', 'PENGETAHUAN', '3'],
