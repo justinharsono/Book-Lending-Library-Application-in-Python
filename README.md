@@ -10,5 +10,8 @@ dipilihkan oleh Mentor. Masing-masing study case minimal memiliki 5 Field
 ## Main Menu
 ![Menu Utama](menuutama.png)
 
+## Read Menu
+![Menu Read](read.png)
+
 ## Dataset
 *Customer Personality Analysis*: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
