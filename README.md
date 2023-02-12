@@ -1,17 +1,26 @@
-# Capstone-Module-1
-Perpustakaan - Peminjaman Buku
+# Capstone Module 1
+Library - Books Lending
 
-Aplikasi memiliki 4 fitur utama, diharapkan siswa dapat membuat aplikasi sesuai
-dengan atau melebihi standar requirement yang sudah ditentukan.
-Setiap siswa akan mengerjakan salah satu study case, di mana study case akan
-dipilihkan oleh Mentor. Masing-masing study case minimal memiliki 5 Field
-(Kolom / Keys) dengan 1 Unique Kolom.
+## Introduction
 
-## Main Menu
-![Menu Utama](menuutama.png)
+Each student will work on one of the study cases, where the study case will be selected by the Mentor. Each study case has at least 5 Fields (Columns / Keys) with 1 Unique Column.  
 
-## Read Menu
+The application has 4 main features, students are expected to be able to make applications that meet or exceed predetermined standard requirements. :
+
+* Main Menu
+![Menu Utama](mainmenu.png)
+
+* Read Menu
 ![Menu Read](read.png)
 
-## Dataset
-*Customer Personality Analysis*: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+* Create Menu
+![Menu Read](create.png)
+
+* Update Menu
+![Menu Read](update.png)
+
+* Delete Menu
+![Menu Read](delete.png)
+
+## Explanatory Video Link
+Youtube : https://youtu.be/wEiRkm8h4co
