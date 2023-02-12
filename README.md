@@ -8,7 +8,7 @@ dipilihkan oleh Mentor. Masing-masing study case minimal memiliki 5 Field
 (Kolom / Keys) dengan 1 Unique Kolom.
 
 ## Main Menu
-![Menu Utama](menu utama)
+![Menu Utama](menuutama.png)
 
 ## Dataset
 *Customer Personality Analysis*: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
