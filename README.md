@@ -6,3 +6,9 @@ dengan atau melebihi standar requirement yang sudah ditentukan.
 Setiap siswa akan mengerjakan salah satu study case, di mana study case akan
 dipilihkan oleh Mentor. Masing-masing study case minimal memiliki 5 Field
 (Kolom / Keys) dengan 1 Unique Kolom.
+
+## Main Menu
+![Menu Utama](menu utama)
+
+## Dataset
+*Customer Personality Analysis*: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
