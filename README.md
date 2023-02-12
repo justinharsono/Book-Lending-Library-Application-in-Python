@@ -1,4 +1,4 @@
-# Capstone Module 1
+# Capstone Module 1  
 Library - Books Lending
 
 ## Introduction
@@ -7,20 +7,20 @@ Each student will work on one of the study cases, where the study case will be s
 
 The application has 4 main features, students are expected to be able to make applications that meet or exceed predetermined standard requirements. :
 
-* Main Menu
+* Main Menu  
 ![Menu Utama](mainmenu.png)
 
-* Read Menu
+* Read Menu  
 ![Menu Read](read.png)
 
-* Create Menu
+* Create Menu  
 ![Menu Read](create.png)
 
-* Update Menu
+* Update Menu  
 ![Menu Read](update.png)
 
-* Delete Menu
+* Delete Menu  
 ![Menu Read](delete.png)
 
-## Explanatory Video Link
+## Explanatory Video Link  
 Youtube : https://youtu.be/wEiRkm8h4co
